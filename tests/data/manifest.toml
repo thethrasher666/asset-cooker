@@ -1,0 +1,55 @@
+#
+# Copyright (c) 2026 Jamie Kenyon. All Rights Reserved.
+#
+
+version = "0.1" # Minimum version of the tools required.
+
+# The list of all albedo (base color) maps.
+[albedo]
+files = [
+]
+
+# The list of all ambient occlusion (AO) maps.
+[ambient_occlusion]
+files = [
+]
+
+# The list of all displacement maps.
+[displacement]
+files = [
+]
+
+# The list of all emissive maps.
+[emissive]
+files = [
+]
+
+# The list of all metallic maps.
+[metallic]
+files = [
+]
+
+# The list of all normal maps.
+[normal]
+files = [
+]
+
+# The list of all opacity maps.
+[opacity]
+files = [
+]
+
+# The list of all roughness maps.
+[roughness]
+files = [
+]
+
+# The list of all animated meshes.
+[skinned_mesh]
+files = [
+]
+
+# The list of all static meshes.
+[static_mesh]
+files = [
+]
